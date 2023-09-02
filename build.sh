@@ -1,5 +1,5 @@
 #!/bin/sh
-set -x
+
 dir="$(CDPATH="" cd -- "$(dirname -- "$0")" && pwd)"
 temp="$(mktemp -d)"
 
