@@ -22,7 +22,7 @@ init -989 python:
             submod="Mark as Seen",
             user_name="Friends-of-Monika",
             repository_name="mas-mark-as-seen",
-            update_dir=""
+            extraction_depth=2
         )
 
 

@@ -50,8 +50,9 @@ installed onto this version (or any version in range)
 ## 📦 How do I install it?
 
 1. Go to [the latest release page](https://github.com/friends-of-monika/mas-mark-as-seen/releases/latest),
-   scroll to the bottom and download the `fom_mark_as_seen.rpy` file.
-2. Drop this file to the `game/Submods` folder inside your DDLC install location.
+   scroll to the bottom and download the `mark-as-seen-VERSION.zip` file.
+2. Extract this file to your DDLC folder (where `DDLC.exe` is, merge it with
+   `game` so that `fom_mark_as_seen.rpy` ends up in `game/Submods`.)
 3. You're all set!
 
 ## 🔥 How do I uninstall it?
