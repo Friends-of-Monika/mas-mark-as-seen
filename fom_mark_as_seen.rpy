@@ -15,6 +15,17 @@ init -990 python in mas_submod_utils:
     )
 
 
+init -990 python:
+
+    if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
+        store.sup_utils.SubmodUpdater(
+            submod="Mark as Seen",
+            user_name="Friends-of-Monika",
+            repository_name="mas-mark-as-seen",
+            update_dir=""
+        )
+
+
 ## PERSISTENT VARIABLES
 
 default persistent._fom_mark_as_seen_labels = dict()
