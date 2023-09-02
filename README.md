@@ -32,7 +32,7 @@ topics from the 'Unseen' menu.
 **Note:** no guarantees are provided that the submod will be functional or even
 compatible with further MAS updates. In case of any issues with it after an
 update, please [create an issue about it](https://github.com/friends-of-monika/mas-mark-as-seen/issues/create)
-(make sure to include all traceback and errors) and [temporarily remove the submod](#🔥-how-do-i-uninstall-it)
+(make sure to include all traceback and errors) and [temporarily remove the submod](#-how-do-i-uninstall-it)
 to make sure your game is functional again. We will update the submod as soon as
 possible once an incompatible MAS update is out!
 
